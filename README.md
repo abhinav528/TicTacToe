@@ -1,1 +1,1 @@
-A TicTacToe Game build using HTML, CSS and JavaScript
+A TicTacToe Game built using HTML, CSS and JavaScript
